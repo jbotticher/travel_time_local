@@ -1,0 +1,5 @@
+2024-05-31 09:51:18,674 - travel_time - INFO - Starting pipeline run
+2024-05-31 09:51:18,675 - travel_time - INFO - Getting pipeline environment variables
+2024-05-31 09:51:18,675 - travel_time - INFO - Creating Travel Time API client
+2024-05-31 09:51:18,676 - travel_time - INFO - Extracting data from Travel Time API
+2024-05-31 09:51:18,888 - travel_time - ERROR - Pipeline run failed. See detailed logs: 

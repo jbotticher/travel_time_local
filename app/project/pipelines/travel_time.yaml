@@ -1,0 +1,6 @@
+name: travel_time_etl
+config: 
+  log_folder_path: "./project/logs"
+schedule:
+  run_seconds: 3
+  poll_seconds: 1

@@ -1,0 +1,7 @@
+2024-05-29 13:28:14,827 - travel_time - INFO - Starting pipeline run
+2024-05-29 13:28:14,827 - travel_time - INFO - Getting pipeline environment variables
+2024-05-29 13:28:14,828 - travel_time - INFO - Creating Travel Time API client
+2024-05-29 13:28:14,828 - travel_time - INFO - Extracting data from Travel Time API
+2024-05-29 13:28:17,403 - travel_time - INFO - Adding load_timestamp and load_id columns to dataframe
+2024-05-29 13:28:17,407 - travel_time - INFO - Loading data to postgres
+2024-05-29 13:28:17,590 - travel_time - INFO - Pipeline run successful
