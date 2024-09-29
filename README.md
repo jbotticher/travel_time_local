@@ -1,7 +1,7 @@
 # **Travel Time API ELT Project**
 ## Local code version
 
-##Note: 
+## Note: 
 - This repo is meant to be cloned and run on a local machine. See travel_time_prod repo for productionized version
 - I am the author of the code in this repo, travel_time_local.
 - Travel_time_prod repo was completed as a group project.
